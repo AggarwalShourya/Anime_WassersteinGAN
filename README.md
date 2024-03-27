@@ -12,7 +12,6 @@ The aim of this project is to automatically generate anime faces by just providi
 - [PyTorch](http://pytorch.org)
 - For training, an NVIDIA GPU is strongly recommended for speed. CPU is supported but training is very slow.
 
-## Reproducing LSUN experiments
 
 **With DCGAN:**
 
